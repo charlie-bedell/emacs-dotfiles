@@ -1,2 +1,2 @@
-# octo-ocean
+# emacs-dotfiles
 emacs dot files
